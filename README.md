@@ -1,5 +1,9 @@
 # Journalyst_assigment-
 
+```bash
+git clone https://github.com/TheSkyroo/Journalyst_assigment-
+```
+
 ## Broker CSV Trade Import Service
 
 Production-grade TypeScript service for importing broker CSV exports with incompatible layouts and normalizing them into a single trade schema.
